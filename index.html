@@ -62,7 +62,7 @@
                 </li><li class="nav-item"><a class="nav-link link text-white display-7" href="https://goo.gl/forms/wGdusxrP44G4pIN63" aria-expanded="false" target="_blank"><span class="mbri-edit mbr-iconfont mbr-iconfont-btn"></span>
                         
                         Course Evaluation</a></li></ul>
-            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-success display-4" href="https://rcms.prasarana.com.my/lms"><span class="mbri-key mbr-iconfont mbr-iconfont-btn"></span>
+            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-success display-4" href="https://rcms.prasarana.com.my"><span class="mbri-key mbr-iconfont mbr-iconfont-btn"></span>
                     </a></div>
         </div>
     </nav>
@@ -81,7 +81,7 @@
                 <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-2"></h3>
                 <p class="mbr-text pb-3 mbr-fonts-style display-5">
                     Knowing is half the battle! ENROL our programme and professional course NOW.</p>
-                <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="https://rcms.prasarana.com.my/lms">LOGIN</a></div>
+                <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="https://rcms.prasarana.com.my">LOGIN</a></div>
             </div>
         </div>
     </div>
